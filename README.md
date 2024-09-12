@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi there! I'm Weronika Niemczyk
 
-<!--
-**WeronikaNiemczyk/WeronikaNiemczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Junior Full-Stack Developer**  🖥️  passionate about building modern web applications. I focus on continuously improving my skills in both front-end and back-end development, while gaining experience with the latest technologies.
 
-Here are some ideas to get you started:
+- 👀 I’m interested in Keep Coding: Programming / Learning
+- 🌱 I’m currently learning JavaScript, React, Node.js
+- 💞️ I’m looking to oportunity to collaborate with companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Technologies & Tools I Use:
+
+- 📌 **Front-end**: HTML, CSS, JavaScript, React
+- 📌 **Back-end**: Node.js, Express.js, MongoDB
+- 📌 **Others**: REST API
+- 📌 **Learning**: TypeScript
+
+## 🗂️ My projects:
+
+- **Ice Cream Page**: https://weronikaniemczyk.github.io/Ice-Cream-Page/
+- **Movies Searcher**: https://weronikaniemczyk.github.io/Movies/
+- **SoYummy - Recipies service**: https://weronikaniemczyk.github.io/SoYummy_Frontend/ 
+
+## 📈 My GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeronikaNiemczyk&show_icons=true&theme=radical)
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/weronikaniemczyk/)
+- [Email](mailto:weronika.tlusciak@gmail.com)
+
