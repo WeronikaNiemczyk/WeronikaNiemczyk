@@ -4,7 +4,7 @@ I'm a **Junior Full-Stack Developer**  🖥️  passionate about building modern
 
 - 👀 I’m interested in Keep Coding: Programming / Learning
 - 🌱 I’m currently learning JavaScript, React, Node.js
-- 💞️ I’m looking to oportunity to collaborate with companies.
+- 💞️ I’m looking for oportunity to collaborate with companies.
 
 
 ## 🔧 Technologies & Tools I Use:
